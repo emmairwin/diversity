@@ -13,7 +13,7 @@ It's important to create one single thread, with all accountable to ensure that 
 |   |   |   |   |   |
 |   |   |   |   |   |
 
-* Collect a list of all areas where this person is known to participates. 
+* Collect a list of all areas where this person is known to participate. 
 * Report back to the group email on completion.
 
 ## Step 2: Document people & steps required to disable access to those systems [Accountable Name]
